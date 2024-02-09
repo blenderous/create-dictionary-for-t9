@@ -1,0 +1,17 @@
+{
+  "name": "create-dictionary-for-t9",
+  "version": "1.0.0",
+  "description": "Create a map from key combinations to words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "t9",
+    "parse",
+    "file"
+  ],
+  "author": "Harish",
+  "license": "ISC"
+}
